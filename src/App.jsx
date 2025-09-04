@@ -1,4 +1,5 @@
 import { useState } from "react";
+import Footer from './components/Footer';
 
 function App() {
   const [input, setInput] = useState("");
@@ -57,6 +58,17 @@ function App() {
     </div>
   </div>
   );
+
+  function App() {
+  return (
+    <>
+      {/* seus outros componentes */}
+      <Footer />
+    </>
+  );
+}
+
+
 }
 
 export default App;
