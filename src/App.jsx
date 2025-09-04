@@ -60,16 +60,10 @@ function App() {
   </div>
   );
 
-  function App() {
-  return (
-    <>
-      {/* seus outros componentes */}
-      <Footer />
-    </>
-  );
+ 
 }
 
 
-}
+
 
 export default App;
