@@ -1,10 +1,10 @@
-import React from 'react';
+import { useState } from "react";
 
 
 const Footer = () => {
   return (
-    <footer style={{ textAlign: 'center', padding: '1rem', background: '#f0f0f0' }}>
-      <p>© 2025 - calculadora DevPrime em reactjs e tailwind</p>
+    <footer style={{ textAlign: 'center', padding: '1rem', background: '#000' }}>
+      <p>© 2025 - Projeto calculadora DevPrime</p>
     </footer>
   );
 };

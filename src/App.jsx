@@ -1,6 +1,7 @@
 import { useState } from "react";
 import Footer from './components/Footer';
 
+
 function App() {
   const [input, setInput] = useState("");
 
