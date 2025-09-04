@@ -2,6 +2,7 @@ import { useState } from "react";
 import Footer from './components/Footer';
 
 
+
 function App() {
   const [input, setInput] = useState("");
 
@@ -56,8 +57,11 @@ function App() {
       <button className="btn" onClick={() => handleClick(".")}>.</button>
       <button className="btn equals" onClick={calculate}>=</button>
       <button className="btn operator" onClick={() => handleClick("+")}>+</button>
+      
     </div>
+ <Footer />
   </div>
+
   );
 
  
