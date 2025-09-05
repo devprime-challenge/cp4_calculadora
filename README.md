@@ -21,7 +21,6 @@
 - **Repositório do GitHub:**  
   [Acesse o Repositório](https://github.com/devprime-challenge/cp4_calculadora.git)
   
-- **Projeto na Vercel:**  
-  [Acesse o Projeto na Vercel](https://nome-do-projeto.vercel.app)
+
 
 
