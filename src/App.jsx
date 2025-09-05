@@ -23,6 +23,7 @@ function App() {
   };
 
   return (
+
   <div className="calculator">
     <h1 className="title">Calculadora</h1>
     <input className="display" type="text" value={input} readOnly />
@@ -59,7 +60,7 @@ function App() {
       <button className="btn operator" onClick={() => handleClick("+")}>+</button>
       
     </div>
- <Footer />
+  <Footer />
   </div>
 
   );
