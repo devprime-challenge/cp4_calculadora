@@ -1,12 +1,27 @@
-# React + Vite
+# :rocket: Calculadora com React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Descrição breve do projeto** – Calculadora criada com React+Vite com as 4 operações básicas da matemática.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Equipe
 
-## Expanding the ESLint configuration
+| **RM**    | **Nome do Integrante**     | 
+|-----------|----------------------------|
+| RM 564014 | Giovanni Tarzoni Piccin    | 
+| RM 561400 | Enrico Puttini             |         
+| RM 561865 | Henrique Infanti Coratolo  |
+| RM 566439 | Jean Carlos                | 
+| RM 561254 | Bruno Lobosque             | 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Links Importantes
+
+- **Repositório do GitHub:**  
+  [Acesse o Repositório](https://github.com/devprime-challenge/cp4_calculadora.git)
+  
+- **Projeto na Vercel:**  
+  [Acesse o Projeto na Vercel](https://nome-do-projeto.vercel.app)
+
+
