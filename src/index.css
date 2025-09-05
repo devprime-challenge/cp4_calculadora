@@ -18,7 +18,7 @@
 
 /* Título */
 .title {
-  color: #e08500;
+  color: #ffff;
   margin-bottom: 15px;
 }
 
@@ -77,11 +77,11 @@
 }
 
 .equals {
-  background: #28a745;
+  background: #e08500;
 }
 
 .equals:hover {
-  background: #218838;
+  background: #af7d31;
 }
 
 .clear {
