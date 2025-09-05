@@ -68,19 +68,19 @@
 }
 
 /* Botões especiais */
-.operator {
+.operador {
   background: #ff9500;
 }
 
-.operator:hover {
+.operador:hover {
   background: #e08500;
 }
 
-.equals {
+.igual {
   background: #e08500;
 }
 
-.equals:hover {
+.igual:hover {
   background: #af7d31;
 }
 
